@@ -133,3 +133,25 @@ It empowers investors with actionable IPO success predictions supported by rigor
 ---
 
 _This concludes the report on the Advanced IPO Success Predictor._
+
+---
+
+## 🚀 Deployed App
+The application is live on Hugging Face Spaces:
+[**IPO Success Predictor**](https://huggingface.co/spaces/NarendraSaraf/IPO-Success-Predictor)
+
+## 💻 How to Run Locally
+
+To run the application on your local machine:
+
+1.  **Navigate to the app directory:**
+    ```bash
+    cd app2
+    ```
+
+2.  **Run the Streamlit app:**
+    ```bash
+    streamlit run app2.py
+    ```
+
+3.  The app will open in your default browser at `http://localhost:8501`.
