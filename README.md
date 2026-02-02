@@ -1,3 +1,7 @@
+##  Deployed App
+The application is live on Hugging Face Spaces:
+[**IPO Success Predictor**](https://huggingface.co/spaces/NarendraSaraf/IPO-Success-Predictor)
+
 # Advanced IPO Success Predictor Report
 
 This report describes the implementation of an **Advanced IPO Success Predictor** using machine learning with an emphasis on sophisticated feature engineering, ensemble modeling, and a dynamic prediction system integrated into a Streamlit web application.
@@ -130,17 +134,8 @@ It empowers investors with actionable IPO success predictions supported by rigor
 - `display_model_performance`: Visualize and summarize model performances.
 - Streamlit UI functions: `main`, `show_model_training`, `show_ipo_prediction`, `show_model_analysis`.
 
----
 
-_This concludes the report on the Advanced IPO Success Predictor._
-
----
-
-## 🚀 Deployed App
-The application is live on Hugging Face Spaces:
-[**IPO Success Predictor**](https://huggingface.co/spaces/NarendraSaraf/IPO-Success-Predictor)
-
-## 💻 How to Run Locally
+##  How to Run Locally
 
 To run the application on your local machine:
 
@@ -155,3 +150,10 @@ To run the application on your local machine:
     ```
 
 3.  The app will open in your default browser at `http://localhost:8501`.
+
+
+---
+
+_This concludes the report on the Advanced IPO Success Predictor._
+
+---
